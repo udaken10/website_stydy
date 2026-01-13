@@ -13,6 +13,8 @@
 
 順番に進めて、ウェブ制作をマスターしよう！
 
+0. **[まずはじめに：準備と設定](docs/00_setup.md)**
+   - VS Codeを使いやすく設定しよう。
 1. **[Lesson 1: HTMLのきほん](lessons/01_html/index.html)**
    - 文字を書いて、タグの意味を覚えよう。
 2. **[Lesson 2: CSSでオシャレに](lessons/02_css/index.html)**
