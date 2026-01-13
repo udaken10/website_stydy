@@ -1,0 +1,30 @@
+/* 
+    Lesson 2: CSSの魔法
+    
+    【やってみよう！】
+    1. body の background-color を好きな色に変えてみよう。
+    2. .box クラスに「枠線(border)」と「余白(padding)」をつけてみよう。
+    3. .text-center クラスに「text-align: center;」を追加して、文字を真ん中にしよう。
+*/
+
+body {
+    font-family: sans-serif;
+    color: #333;
+    /* 1. ここに背景色を追加してみてね */
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+}
+
+.box {
+    /* 2. ここに枠線(border: 2px solid red;)などを追加してみてね */
+    margin: 20px 0;
+}
+
+.text-center {
+    /* 3. ここに中央寄せの命令を書いてみてね */
+}
+ stone

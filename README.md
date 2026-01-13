@@ -9,12 +9,19 @@
 3. [CSS：見た目を整える](docs/03_css.md)
 4. [JavaScript：動きをつける](docs/04_javascript.md)
 
-## この教材の使い方
+## ステップアップ学習（演習）
 
-各 `docs` フォルダ内のドキュメントを読みながら、ルートディレクトリにある `index.html` をブラウザで開いて動作を確認してください。
+順番に進めて、ウェブ制作をマスターしよう！
 
-## サンプルコード
+1. **[Lesson 1: HTMLのきほん](lessons/01_html/index.html)**
+   - 文字を書いて、タグの意味を覚えよう。
+2. **[Lesson 2: CSSでオシャレに](lessons/02_css/index.html)**
+   - 色をつけたり、形を整えたりしてみよう。
+3. **[Lesson 3: JSで動かそう](lessons/03_js/index.html)**
+   - クリックすると何かが起きる仕組みを作ろう。
+4. **[Lesson 4: 最終課題：自分だけのページ](lessons/04_final/index.html)**
+   - 全部の知識を組み合わせて、好きなもの紹介ページを作ろう！
 
-- `index.html`: ウェブサイトの構造（HTML）
-- `styles/style.css`: スタイル（CSS）
-- `scripts/main.js`: 振る舞い（JavaScript）
+---
+
+## 詳しい解説（ドキュメント）
