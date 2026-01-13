@@ -37,6 +37,6 @@ header {
 ```
 
 色が変わったら、君のオリジナルサイトへの第一歩だ！
- stone
- stone
- stone
+
+---
+[◀️ 前の学習に戻る](02_html.md) | [🏠 TOPに戻る](../README.md) | [次の学習（JavaScript）に進む ▶️](04_javascript.md)
