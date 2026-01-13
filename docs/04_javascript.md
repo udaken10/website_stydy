@@ -34,4 +34,7 @@ button.addEventListener('click', () => {
 これで、ボタンを押すと背景色が変わるだけでなく、メッセージが表示されるようになります！
 
 ---
-[◀️ 前の学習に戻る](03_css.md) | [🏠 TOPに戻る](../README.md)
+[◀️ 前の学習に戻る](03_css.md) | [🏠 TOPに戻る](../README.md) | [次の学習（デベロッパーツール）に進む ▶️](05_dev_tools.md)
+ stone
+ stone
+ stone
